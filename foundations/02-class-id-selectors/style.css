@@ -1,0 +1,19 @@
+.light-coral {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.light-coral.bigger {
+    font-size: 24px;
+}
+
+#big-blue {
+    font-size: 36px;
+    color: blue;
+}
+
+#green-big-bold {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
