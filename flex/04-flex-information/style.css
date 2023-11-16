@@ -12,6 +12,28 @@ img {
   font-weight: 900;
 }
 
+/* my changes */
+
+.title {
+  text-align: center;
+}
+
+.primary-container {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.secondary-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+  align-items: center;
+  text-align: center;
+
+  /* solution */
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
